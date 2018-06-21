@@ -1,0 +1,14 @@
+
+\.idea/
+
+\.vs/
+
+*.code-workspace
+
+*.pyproj
+
+*.sln
+
+json_dump_test\.py
+
+test\.json
